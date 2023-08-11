@@ -1,0 +1,23 @@
+/* .container{
+    border:2px solid black;
+} */
+h2{
+    text-align:center;
+}
+.one{
+    margin:auto;
+    /* border:2px solid black; */
+    display:block;
+}
+img{
+    margin-left:25%;
+}
+p{
+    width:30%;
+    margin:auto;
+    color:rgba(0,0,0,0.6);
+    padding:10px;
+}
+iframe{
+    margin-left:35%;
+}
